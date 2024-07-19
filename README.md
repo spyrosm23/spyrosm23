@@ -4,7 +4,6 @@ Undergraduate student of Athens University of Economics and Business. Energetic 
 
 - Enjoying programming and creating new projects 
 - Welcoming to new ideas, methods, and collaborators
-- Always playing by the rules
 - Never leaves a task half-completed
 
 ## My Skills and Tools Collection
