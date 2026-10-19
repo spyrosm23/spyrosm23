@@ -1,11 +1,11 @@
 # Hi there, I'm Spyros Makris! 👋
 
-**Aspiring Software Engineer | Final-Year CS Student at AUEB**
+**Aspiring Software Engineer | Graduate CS at AUEB**
 
 I'm a passionate programmer currently wrapping up my Computer Science degree at the Athens University of Economics and Business (AUEB). I enjoy turning complex problems into clean, efficient, and reliable code, and I am highly motivated to transition my academic knowledge into real-world industry experience.
 
 ### 👨‍💻 About Me
-* 🎓 **Education:** Final-year undergraduate at AUEB, focusing on Software Engineering.
+* 🎓 **Education:** Graduate at AUEB, focusing on Software Engineering.
 * 💡 **Mindset:** Strong believer in continuous learning, clean architecture, and never leaving a task half-completed.
 * 🌱 **Currently learning/improving:** Kali Linux (Penetration testing basics) and Cybersecurity fundamentals.
 * 🤝 **Looking for:** Junior Software Engineer roles and opportunities to collaborate on interesting projects.
