@@ -1,14 +1,14 @@
 # Hi there, I'm Spyros Makris! 👋
 
-**Aspiring Software Engineer | Graduate CS at AUEB**
+**Aspiring Software & Cybersecurity Engineer | CS Graduate at AUEB**
 
-I'm a passionate programmer currently wrapping up my Computer Science degree at the Athens University of Economics and Business (AUEB). I enjoy turning complex problems into clean, efficient, and reliable code, and I am highly motivated to transition my academic knowledge into real-world industry experience.
+I'm a passionate programmer with a Computer Science degree from the Athens University of Economics and Business (AUEB). I enjoy turning complex problems into clean, efficient, and secure solutions, and I am highly motivated to transition my academic knowledge into real-world industry experience.
 
 ### 👨‍💻 About Me
-* 🎓 **Education:** Graduate at AUEB, focusing on Software Engineering.
-* 💡 **Mindset:** Strong believer in continuous learning, clean architecture, and never leaving a task half-completed.
-* 🌱 **Currently learning/improving:** Kali Linux (Penetration testing basics) and Cybersecurity fundamentals.
-* 🤝 **Looking for:** Junior Software Engineer roles and opportunities to collaborate on interesting projects.
+* 🎓 **Education:** BSc in Computer Science from AUEB, focusing on Software Engineering and Cybersecurity.
+* 💡 **Mindset:** Strong believer in continuous learning, clean architecture, and building robust, secure systems.
+* 🌱 **Currently learning/improving:** Kali Linux, Penetration Testing basics, and modern Threat Analysis.
+* 🤝 **Looking for:** Junior Software Engineer, Junior Cybersecurity Analyst, or Security Engineer roles, as well as opportunities to collaborate on impactful projects.
 * 📫 **Let's connect:** spyrosmakris2003@gmail.com | [LinkedIn](https://www.linkedin.com/in/spyros-makris-038144323/)
 
 ---
